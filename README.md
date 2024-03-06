@@ -15,7 +15,7 @@ This project is an implementation of songs list in C++, where each song is repre
 
 To execute this project, you must be in the main folder. Run the following command:
 
-VsCode
+PowerShell
 ```bash
   ./main.exe
 ```
